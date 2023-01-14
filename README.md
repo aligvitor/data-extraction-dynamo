@@ -1,1 +1,1 @@
-In this repositorystimated carbon dioxide emissions resulting from the origin-destination flows in Sao Paulo, Brazil.
+In this repository, I estimated carbon dioxide emissions resulting from the origin-destination flows in Sao Paulo, Brazil.
