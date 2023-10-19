@@ -1,1 +1,1 @@
-In this repository, I estimated carbon dioxide emissions resulting from each zone in Sao Paulo, Brazil.
+In this repository, I extract data from an architectural project on revit using dynamo.
